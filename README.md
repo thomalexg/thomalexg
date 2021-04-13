@@ -11,7 +11,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/thomas-gaedtke-12843520b" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="www.linkedin.com/in/thomas-gaedtke-12843520b" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/thomas-gaedtke-12843520b/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="www.linkedin.com/in/thomas-gaedtke-12843520b" height="30" width="40" /></a>
 <a href="https://instagram.com/thomalexg_photography" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="thomalexg_photography" height="30" width="40" /></a>
 </p>
 
