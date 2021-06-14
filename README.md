@@ -7,7 +7,7 @@
 
 - 👯 My latest finished project [Send-Bikes E-Commerce Store](https://github.com/thomalexg/Next.js-Ecommerce-Store)
 
-- 📫 How to reach me **thomas.gaedtke@posteo.eu**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
